@@ -1,6 +1,5 @@
 # Reverse Vowels of A String:
 # Takes a string as input and reverses only the vowels in the string
-
 class Solution:
     # is_vowel(letter): Returns true if a letter is a vowel
     def is_vowel(self, letter: str) -> bool:
