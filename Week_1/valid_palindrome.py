@@ -1,5 +1,6 @@
 # Is Palindrome:
 # Returns true if a string is a  palindrome, considering only alphanumeric characters and ignoring cases 
+
 class Solution:
     def isPalindrome(self, s: str) -> bool:
         x = 0
