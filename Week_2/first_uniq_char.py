@@ -1,4 +1,4 @@
-# Design Hashset: First unique character in a string
+# First Uniq Char: First unique character in a string
 
 import sys
 class Solution:
