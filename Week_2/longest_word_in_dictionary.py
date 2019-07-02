@@ -1,3 +1,6 @@
+# Longest Word in Dictionary: Returns the longest word in a dictionary that
+# can be formed letter by letter from other words in the dictionary
+
 from collections import defaultdict
 
 class Node:
