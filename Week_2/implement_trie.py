@@ -1,3 +1,5 @@
+# Implement Trie: Implement a trie in python without using a built in trie object.
+
 class Node:
     def __init__(self):
         self.children = {}
