@@ -1,6 +1,9 @@
+# Number of atoms: Counts number of atoms from an equation string
+
 import re
 from collections import Counter
 class Solution:
+    # Splits elems into element + number of atoms
     def handle_elem(self, elem, mult, counter):
         if elem == "":
             return
