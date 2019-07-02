@@ -1,5 +1,6 @@
 # Groups of Special Equivalent Strings: Given an array A of strings.
 # Two strings are special equivalent if after any number of moves S == T
+
 from collections import Counter, defaultdict
 class Solution:
     def numSpecialEquivGroups(self, A: List[str]) -> int:
