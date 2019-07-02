@@ -3,6 +3,7 @@
 # Starting with any positive integer, replace the number
 # by the sum of the squares of its digits and repeat the process
 # until the number equals 1 or it loops endlessly.
+
 class Solution:      
     def isHappy(self, n: int) -> bool:
         myset = set()
