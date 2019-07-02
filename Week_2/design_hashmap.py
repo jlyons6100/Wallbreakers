@@ -1,4 +1,5 @@
 # Design Hashmap: Create a hashmap implementation in python.
+
 class MyHashMap:
     def __init__(self):
         self.cap = 5000
