@@ -1,3 +1,4 @@
+# Word Serach II: Find all words that are in a dictionary and on the board
 class Node:
     def __init__(self):
         self.children = {}
